@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/arabam13/postBlog-server-aws.git
+[submodule "client"]
+	path = client
+	url = https://github.com/arabam13/postBlog-angular-aws.git
